@@ -1,0 +1,15 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/deannao/Desktop/Program 3",
+            "binaryPath": "/Users/deannao/Desktop/Program 3/orgtree",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "ostream": "cpp",
+        "new": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
+    }
+}
